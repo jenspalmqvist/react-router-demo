@@ -1,0 +1,10 @@
+.activeLink {
+  color: red;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.inactiveLink {
+  color: blue;
+  text-decoration: none;
+}
